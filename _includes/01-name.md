@@ -1,4 +1,4 @@
 # Welcome! 😄
-# This is me
-## This is you
-###### This is us
+# To my website using GitHub
+## Do you know how to code?
+###### What language would you start with?
