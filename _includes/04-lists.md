@@ -3,6 +3,4 @@
      1. What other coding languages do you know?
      2. Python is fun!
 
-* Do you know how to insert an emoji?
-* 🦘
-* 🐨
+* Do you know how to insert an emoji? 🦘
