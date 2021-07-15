@@ -5,3 +5,4 @@
 
 * Do you know how to insert an emoji?
 * 🦘
+* 🐨
